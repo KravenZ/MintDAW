@@ -1,3 +1,12 @@
-MintDAW
+==============================================================================
+Project Title: MintDAW
+==============================================================================
+Author: 			David Bulczak
+Description: 	This project is a little open source project to develope a multi 
+							platform digital audio workstation.
+							For this purpose QT and CMAKE are used.
+							The first aim is that I want to learn some signal processing 
+							techniques as well as get more practice in QT.
 
-Short description: This is an open source for a multi platform DAW (digital audio workstation). It should be easy to use but cover features for professional use.
+More infos coming soon!!!
+==============================================================================
